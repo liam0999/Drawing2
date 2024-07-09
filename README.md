@@ -14,6 +14,9 @@ A fixed and cleaner version of a Roblox-GUI wrapper which mimics the Synapse X D
 > `isfile`,
 > `delfile`
 
+<details>
+<summary>Documentation</summary>
+
 ## Drawing.Font.new
 
 ### Default Fonts
@@ -184,3 +187,4 @@ Text.Transparency = 0.5
 Text.ZIndex = 1
 Text.Visible = true
 ```
+</details>
