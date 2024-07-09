@@ -1,7 +1,7 @@
 # Drawing2
 A fixed and cleaner version of a Roblox-GUI wrapper which mimics the Synapse X Drawing library.
 
-To use this, simply put `Drawing.lua` at the top of your script or in autoexec.
+To use this, simply put the [`Drawing2.lua`](Drawing2.lua) file at the top of your script or in autoexec.
 
 
 > [!NOTE]
