@@ -10,6 +10,14 @@ end
 LPH_NO_VIRTUALIZE(function()
 
     assert(getcustomasset, "This enviornment does not support 'getcustomasset'!")
+    assert(gethui, "This enviornment does not support 'gethui'!")
+    assert(isfolder, "This enviornment does not support 'isfolder'!")
+    assert(makefolder, "This enviornment does not support 'makefolder'!")
+    assert(isfile, "This enviornment does not support 'isfile'!")
+    assert(delfile, "This enviornment does not support 'delfile'!")
+    assert(readfile, "This enviornment does not support 'readfile'!")
+    assert(writefile, "This enviornment does not support 'writefile'!")
+    assert(crypt, "This enviornment does not support 'crypt'!")
 
     if cleardrawcache then
         cleardrawcache()
